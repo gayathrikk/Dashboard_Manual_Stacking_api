@@ -6,3 +6,4 @@
 "# Dashboard_ImageQC_api" 
 "# Dashboard_MRI_api" 
 "# Dashboard_OrganExtraction_api" 
+"# Dashboard_Registration_api" 
